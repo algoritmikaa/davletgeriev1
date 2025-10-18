@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+ header {
+    background-color: darkblue;
+    border-radius: 10px;
+    padding: 10px;
+ }
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+footer{
+    background-color: chartreuse;
+    padding: 10px;
+}
+
+footer p{
+    border: 3px solid darkgreen;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.cont{
+    background-color: darkgreen;
+    color: chartreuse;
+}
+
+nav {
+    
+}
+select {
+    
+}
